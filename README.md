@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Demo React app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Features
+
+This project demonstrates basic use case of persisting data to a backend database through a UI.  
+This uses AppSync to expose GraphQL APIs for CRUD operations to DynamoDB.
 
 ## Available Scripts
 
